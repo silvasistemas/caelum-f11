@@ -25,10 +25,6 @@ public class Conta {
 		dados += "\nNúmero: " + this.numero;
 		dados += "\nSaldo: R$ " + this.saldo;
 		return dados;
-		/*System.out.println("Conta número: " + this.numero);
-		System.out.println("Cont agência: " + this.agencia);
-		System.out.println("Data de abertura: " + this.dataAbertura);
-		System.out.println("Titular: " + this.titular);
-		System.out.println("Saldo: R$ " + this.saldo);*/
+		
 	}
 }
